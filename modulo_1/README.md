@@ -3,6 +3,7 @@
 Olá! Aqui é possível visualizar os conteúdos abordados no Módulo 1, e também seus respectivos projetos. Logo abaixo você encontra uma breve descrição do que cada atividade propôs.
 
 ## Índice
+<details>
   <summary><b>Projetos</b></summary>
 
 - [Aula 1](https://github.com/vicafz/python_fuctura/tree/main/modulo_1/aula_1)
@@ -18,5 +19,5 @@ Olá! Aqui é possível visualizar os conteúdos abordados no Módulo 1, e tamb�
     - 3: Criar sistema que valide um cupom de 10%, outro de 15%, e se não for válido informar ao usuário;  
     - 4: Criar sistema de empréstimo, que se o valor do empréstimo for igual ou menor a 50% do salário, retornar aprovação. Senão, se o valor for igual ou menor que 75% do salário, retornar análise, senão, informar ao usuário que o empréstimo foi negado;  
     - 5: Criar um RPG;
-    </details>
+</details>
 
