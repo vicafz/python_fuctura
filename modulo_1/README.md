@@ -3,10 +3,10 @@
 Olá! Aqui é possível visualizar os conteúdos abordados no Módulo 1, e também seus respectivos projetos. Logo abaixo você encontra uma breve descrição do que cada atividade propôs.
 
 <details>
-  <summary><b>Projetos</b></summary>
+  <summary><b>Índice</b></summary>
     
 - [Aula 1](https://github.com/vicafz/python_fuctura/tree/main/modulo_1/aula_1);
-    <details>
+    <details><summary>Projetos</summary>
     - Projeto 1: Criar sistema que valide um cupom específico;<br>
     - Projeto 2: Criar sistema que valide um cupom, e caso não seja o cupom, retornar inválido;<br>
     - Projeto 3: Criar sistema que valide um cupom de 10%, outro de 15%, e se não for válido informar ao usuário;<br>
