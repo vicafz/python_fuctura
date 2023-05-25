@@ -2,15 +2,7 @@
 
 Olá! Aqui é possível visualizar os conteúdos abordados no Módulo 1, e também seus respectivos projetos. Logo abaixo você encontra uma breve descrição do que cada atividade propôs.
 
-##Índice
-<details>
-  <summary><b>Conteúdos</b></summary>
-
-- Operadores, desvio condicional e estrutura de dados;
-- Listas, tuplas e dicionários;  
-</details>
-
-<details>
+## Índice
   <summary><b>Projetos</b></summary>
 
 - [Aula 1](https://github.com/vicafz/python_fuctura/tree/main/modulo_1/aula_1)
