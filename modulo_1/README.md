@@ -1,2 +1,18 @@
-<h1 align="center">Módulo 1 | Academia Python - Fuctura</h1>
-[Índice](#índice)
+<h1 align="center">Módulo 1 | Academia Python</h1>
+
+Olá! Aqui é possível visualizar os conteúdos abordados no Módulo 1, e também seus respectivos projetos. Logo abaixo você encontra uma breve descrição do que cada atividade propôs.
+
+<details>
+  <summary><b>Projetos</b></summary>
+    
+- [Aula 1](https://github.com/vicafz/python_fuctura/tree/main/modulo_1/aula_1);
+    <details>
+    Projeto 1: Criar sistema que valide um cupom específico;
+    Projeto 2: Criar sistema que valide um cupom, e caso não seja o cupom, retornar inválido;
+    Projeto 3: Criar sistema que valide um cupom de 10%, outro de 15%, e se não for válido informar ao usuário;
+    Projeto 4: Criar sistema de empréstimo, que se o valor do empréstimo for igual ou menor a 50% do salário, retornar aprovação. Senão, se o valor for igual ou menor que 75% do salário, retornar análise, senão, informar ao usuário que o empréstimo foi negado;
+    Projeto 5: Criar um RPG;
+    <details>
+- Operadores, desvio condicional e estrutura de dados;
+- Listas, tuplas e dicionários;
+</details>

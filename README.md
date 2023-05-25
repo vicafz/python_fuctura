@@ -7,8 +7,7 @@ Seja bem-vindo(a)! Este readme.md foi criado de forma a documentar e guiar o meu
 <details>
   <summary><b>Módulo 1</b></summary>
     
-- [Projetos](https://github.com/vicafz/python_fuctura/tree/main/modulo_1)
-- Operadores, desvio, condicional e estrutura de dados;
+- [Projetos](https://github.com/vicafz/python_fuctura/tree/main/modulo_1);
+- Operadores, desvio condicional e estrutura de dados;
 - Listas, tuplas e dicionários;
 </details>
-
